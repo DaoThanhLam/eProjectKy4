@@ -1,7 +1,0 @@
-INDEX VERSION 1.134
-C:\Users\DQL\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\894642474.index
-\bookma_pro\src\main\java
-C:\Users\DQL\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\738887978.index
-\KTra\src\main\java
-C:\Users\DQL\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\823459664.index
-\bookma_pro\src\main\java
